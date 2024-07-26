@@ -1,20 +1,23 @@
 # Privacy Policy
 
-## Introduction
-We value your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and share information about you.
+**Effective Date:** 27/07/24
 
-## Information We Collect
-- Personal Identification Information (e.g., name, email address)
-- Usage Data (e.g., app usage, crash reports)
+## 1. Introduction
 
-## How We Use Your Information
-- To provide and maintain our app
-- To notify you about changes to our app
-- To provide customer support
+Thank you for using KanaPracticeApp ("we," "our," or "us"). Your privacy is important to us, and we are committed to protecting it. This Privacy Policy explains how we handle your information when you use our product/service.
 
-## How We Share Your Information
-- We do not sell, trade, or rent your personal data to others.
-- We may share information with service providers who perform functions on our behalf.
+## 2. Information We Collect
 
-## Contact Us
-If you have any questions about this privacy policy, please contact us at [email address].
+### Current Data Collection Practices
+As of the effective date of this Privacy Policy, we do not collect any personal data from users of our product/service. You can use KanaPracticeApp without providing any personal information.
+
+### Future Data Collection Practices
+We may update KanaPracticeApp to collect personal data in the future to enhance user experience, improve functionality, or for other purposes. Any changes to our data collection practices will be reflected in an updated version of this Privacy Policy.
+
+## 3. Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we make changes to our data collection practices, we will update this Privacy Policy accordingly and notify you of the changes. We will provide notice through our product/service or by other means, such as email, before the changes take effect. Your continued use of KanaPracticeApp after the effective date of any changes constitutes your acceptance of the updated Privacy Policy.
+
+## 4. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at aleradisic@gmail.com
